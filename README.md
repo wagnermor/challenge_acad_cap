@@ -9,14 +9,15 @@ Este repositório contém três questões do desafio de programação para Acade
 - Nome da função: stars(n)
 - Exemplo de entrada: console.log(stars(6));
 - Exemplo de saída:
--   A|B|C|D|E|F
-- 1           *
-- 2         * *
-- 3       * * *
-- 4     * * * *
-- 5   * * * * *
-- 6 * * * * * *
-
+<pre>
+  A|B|C|D|E|F
+1           *
+2         * *
+3       * * *
+4     * * * *
+5   * * * * *
+6 * * * * * *
+</pre>
 
 ## Questão 02
 
