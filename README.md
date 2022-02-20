@@ -65,7 +65,7 @@ $ npm test -- 'challenge3'
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+As seguintes ferramentas foram usadas para a entrega do desafio:
 
 - [Node.js](https://nodejs.org/pt-BR/)
 - [Jest](https://jestjs.io/pt-BR/)
