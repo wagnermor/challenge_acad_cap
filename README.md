@@ -1,9 +1,9 @@
-# DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
+# 🚀DESAFIO DE PROGRAMAÇÃO - ACADEMIA CAPGEMINI
 
-Este repositório contém três questões do desafio de programação para Academia Capgemini.
+Questões do desafio de programação para Academia Capgemini.
 
 
-## Questão 01
+## 💡Questão 01
 
 - Nome do arquivo: challenge1.js
 - Nome da função: stars(n)
@@ -19,7 +19,7 @@ Este repositório contém três questões do desafio de programação para Acade
 6 * * * * * *
 </pre>
 
-## Questão 02
+## 💡Questão 02
 
 - Nome do arquivo: challenge2.js
 - Nome da função: checkPassword("password")
@@ -34,28 +34,39 @@ Este repositório contém três questões do desafio de programação para Acade
 - Exemplo de saída: 3
 
 
-## Questão 03
+## 💡Questão 03
 
 - Nome do arquivo: challenge3.js
 - Nome da função: anagram("word")
 - Exemplo de entrada: console.log(anagram("OVo"));
 - Exemplo de saída: 2
 
+
+## ✅Pré-requisitos
+
+Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/) e um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+
+
 ## Como usar este repositório
 
-**Instalar todas as dependências**
-```
-npm install
+```bash
+# Instalar todas as dependências
+$ npm install
+
+# Execute todos os testes
+$ npm test
+
+# Executar testes por nome
+$ npm test -- 'challenge1'
+$ npm test -- 'challenge2'
+$ npm test -- 'challenge3'
 ```
 
-**Execute todos os testes**
-```
-npm test
-```
+## 🛠 Tecnologias
 
-**Executar testes por nome**
-```
-npm test -- 'challenge1'
-npm test -- 'challenge2'
-npm test -- 'challenge3'
-```
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/pt-BR/)
+- [Jest](https://jestjs.io/pt-BR/)
+- [Git](https://git-scm.com/)
