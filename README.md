@@ -24,11 +24,11 @@ Este repositório contém três questões do desafio de programação para Acade
 - Nome do arquivo: challenge2.js
 - Nome da função: checkPassword("password")
 - Critérios de entrada:
--   * Possui no mínimo 6 caracteres;
--   * Contém no mínimo 1 digito;
--   * Contém no mínimo 1 letra em minúsculo;
--   * Contém no mínimo 1 letra em maiúsculo;
--   * Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
+   * Possui no mínimo 6 caracteres;
+   * Contém no mínimo 1 digito;
+   * Contém no mínimo 1 letra em minúsculo;
+   * Contém no mínimo 1 letra em maiúsculo;
+   * Contém no mínimo 1 caractere especial. Os caracteres especiais são: !@#$%^&*()-+
 - 
 - Exemplo de entrada: console.log(checkPassword("Y2@"));
 - Exemplo de saída: 3
